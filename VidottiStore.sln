@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidottiStore.Domain", "Vido
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidottiStore.Data", "VidottiStore.Data\VidottiStore.Data.csproj", "{430059B0-FD8E-4303-984D-CC70F79604A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidottiStore.Utils", "VidottiStore.Utils\VidottiStore.Utils.csproj", "{5F86234A-5639-4EE3-AF49-BE0F9D6CC30F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidottiStore.Api", "VidottiStore.Api\VidottiStore.Api.csproj", "{D17FFC7D-E4B5-4EBF-B1CD-DA273B0824BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{430059B0-FD8E-4303-984D-CC70F79604A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{430059B0-FD8E-4303-984D-CC70F79604A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{430059B0-FD8E-4303-984D-CC70F79604A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F86234A-5639-4EE3-AF49-BE0F9D6CC30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F86234A-5639-4EE3-AF49-BE0F9D6CC30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F86234A-5639-4EE3-AF49-BE0F9D6CC30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F86234A-5639-4EE3-AF49-BE0F9D6CC30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17FFC7D-E4B5-4EBF-B1CD-DA273B0824BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17FFC7D-E4B5-4EBF-B1CD-DA273B0824BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17FFC7D-E4B5-4EBF-B1CD-DA273B0824BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17FFC7D-E4B5-4EBF-B1CD-DA273B0824BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
